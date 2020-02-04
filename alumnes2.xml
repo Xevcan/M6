@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><alumnes>
+  <alumne id="1">
+	<nom>Arianna</nom>
+	<apellido>Grange</apellido>
+	
+	<notaFinal/>	
+  </alumne>
+
+  <alumne id="2">
+	<nom>Nuria</nom>
+	<apellido>Grange</apellido>
+
+	<notaFinal>10</notaFinal>	  
+  </alumne>
+
+  <alumne id="3">
+	<nom>Fede</nom>
+	<apellido>Grange</apellido>
+	
+	<notaFinal>4</notaFinal>	  
+  </alumne>
+
+
+</alumnes>
